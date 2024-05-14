@@ -1,0 +1,6 @@
+--Integrantes--
+Juan Turriago
+Sergio Gonzalez
+Sebastián Ospina
+--Repositorio--
+https://github.com/Turriagojuan/Parcial_Avanzada.git
